@@ -1,6 +1,6 @@
-# Project URL
+# Project Page URL
 
-https://github.com/mshayanamjad/Laravel-Task-CLI.git
+https://roadmap.sh/projects/task-tracker
 
 # Adding a new task
 
