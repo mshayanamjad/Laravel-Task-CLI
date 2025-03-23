@@ -1,6 +1,6 @@
 # Project URL
 
-https://github.com/mshayanamjad/Laravel-Task-CLI
+https://github.com/mshayanamjad/Laravel-Task-CLI.git
 
 # Adding a new task
 
